@@ -1,11 +1,11 @@
-# 📰 RSS Beslemeleri Koleksiyonu
+# RSS Beslemeleri Koleksiyonu
 ---
 
-## 📖 Proje Hakkında
+## Proje Hakkında
 
 Bu proje, popüler web siteleri ve servisler için kullanılabilir RSS/Atom beslemelerinin kapsamlı bir koleksiyonudur. Haber siteleri, sosyal medya platformları, teknoloji blogları ve daha fazlası için düzenli olarak güncellenen RSS kaynakları sunmaktadır.
 
-## 🔍 İçindekiler
+## İçindekiler
 
 - [Özellikler](#-özellikler)
 - [Desteklenen Servisler](#-desteklenen-servisler)
@@ -14,17 +14,17 @@ Bu proje, popüler web siteleri ve servisler için kullanılabilir RSS/Atom besl
 - [Güncellemeler](#-güncellemeler)
 - [Lisans](#-lisans)
 
-## ✨ Özellikler
+##  Özellikler
 
-- 📚 Kategorilere ayrılmış RSS kaynakları
-- 🔄 Düzenli olarak güncellenen bağlantılar
-- 🌍 Türkçe ve global kaynaklar
-- ⚡ Kolay entegrasyon
-- 📱 Mobil uyumlu beslemeler
+-  Kategorilere ayrılmış RSS kaynakları
+-  Düzenli olarak güncellenen bağlantılar
+-  Türkçe ve global kaynaklar
+-  Kolay entegrasyon
+-  Mobil uyumlu beslemeler
 
-## 📂 Desteklenen Servisler
+##  Desteklenen Servisler
 
-### 📰 Haber Siteleri
+###  Haber Siteleri
 
 #### Global Kaynaklar
 - **Google Haberler**: `https://news.google.com/rss`
@@ -53,7 +53,7 @@ Bu proje, popüler web siteleri ve servisler için kullanılabilir RSS/Atom besl
 
 [Tüm liste için tıklayın](feeds.md)
 
-## 🚀 Kullanım
+##  Kullanım
 
 ### RSS Okuyucu için
 1. İstediğiniz servisin RSS adresini kopyalayın
@@ -72,10 +72,10 @@ for entry in feed.entries:
     print(entry.title)
 ```
 
-## 📜 Lisans
+##  Lisans
 
 Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 
-## 🌟 Projeye Destek Ol
+##  Projeye Destek Ol
 
-Eğer bu proje işinize yaradıysa, ⭐️ vermeyi unutmayın!
+Eğer bu proje işinize yaradıysa, ⭐ vermeyi unutmayın!
