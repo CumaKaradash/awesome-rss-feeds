@@ -38,16 +38,16 @@ Bu proje, popüler web siteleri ve servisler için kullanılabilir RSS/Atom besl
 - **Anadolu Ajansı**: `https://www.aa.com.tr/tr/rss/default?cat=guncel`
 - **TRT Haber**: `https://www.trthaber.com/rss`
 
-### 💻 Teknoloji ve Yazılım
+### Teknoloji ve Yazılım
 - **Stack Overflow**: `https://stackoverflow.com/feeds`
 - **GitHub**: `https://github.com/{KULLANICI_ADI}.atom`
 - **Adobe Blog**: `https://blog.adobe.com/en/feed.xml`
 
-### 🎮 Oyun ve Dijital Platformlar
+### Oyun ve Dijital Platformlar
 - **Steam**: `https://store.steampowered.com/feeds/news.xml`
 - **Epic Games**: `https://www.epicgames.com/store/en-US/feed.xml`
 
-### 🎥 Video ve Medya
+### Video ve Medya
 - **YouTube**: `https://www.youtube.com/feeds/videos.xml?channel_id={KANAL_ID}`
 - **Spotify**: Podcast bazlı RSS adresleri podcast sayfalarından elde edilebilir
 
